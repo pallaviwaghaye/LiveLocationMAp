@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveLocationMap</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBBdVq377YClv5NFjuIPbx7q8_5WJ71Xh4</string>
+</resources>
